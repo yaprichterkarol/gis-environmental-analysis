@@ -33,7 +33,7 @@ A comprehensive suite of hydrological and environmental models demonstrating adv
 
 ## Technical Stack & Methodology
 
-* **Spatial Analysis & Cartography:** QGIS, ArcGIS
+* **Spatial Analysis & Cartography:** QGIS
 * **Remote Sensing Data Handling:** SRTM 30m DEM, Sentinel-2 Optical Imagery
 * **Data Infrastructure:** OpenStreetMap (OSM), PostgreSQL / PostGIS 
 * **Design & Layout:** Advanced cartographic styling, maintaining high visual hierarchy and strict data integrity for engineering and planning requirements.
@@ -44,4 +44,4 @@ I am a spatial data analyst and developer bridging the gap between complex geogr
 
 Currently seeking freelance mapping projects and opportunities relating to spatial data analysis and software engineering.
 
-**Contact:** [Insert your LinkedIn Profile Link] | [Insert your Email]
+**Contact:** [www.linkedin.com/in/richter-karol-yap-603052411] | [yaprichterkarol@gmail.com]
