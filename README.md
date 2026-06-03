@@ -6,16 +6,30 @@ A professional portfolio of high-resolution environmental models, terrain analys
 
 ### 1. Watershed & Topographical Modeling (Alubijid Watershed)
 A comprehensive suite of hydrological and environmental models demonstrating advanced processing of Digital Elevation Models (DEM) and foundational spatial data.
+
 * **Drainage Analysis:** Stream order classification and hydrological network extraction.
 * **Terrain Modeling:** Slope categorization and land capability classification utilizing BSWM standards.
 * **Risk Assessment:** Soil erosion modeling (RUSLE) and multi-criteria decision analysis (MCDA) for flood hazard susceptibility.
 * **Infrastructure & Landcover:** Integration of OpenStreetMap (OSM) vectors and 2021 ESA WorldCover data.
 
+![Administrative Map](Administrative%20Map.png)
+![Drainage Map](Drainage%20Map.png)
+![Slope Map](SlopeMap.png)
+![Land Capability Map](Land%20Capability%20Map.png)
+![Soil Erosion Map](Soil%20Erosion%20Map.png)
+![Flood Hazard MCDA](MCDA%20Act%20(Bacolanta%20et%20al).png)
+![Infrastructure Map](Infrastructure%20Map.png)
+![Vegetative Landcover Map](Vegetative%20Landcover%20Map.png)
+
 ### 2. Urban Environmental Monitoring (Cagayan de Oro City)
 * **NDVI Classification:** Processed Sentinel-2A satellite imagery to classify vegetation density and identify sparse/disturbed environments across highly urbanized barangays.
 
+![CDO Urban Barangay Map](CDOUrbanBarangayMap.png)
+
 ### 3. Coastal Resource Management (Tubajon Marine Protected Area)
 * **Zoning & Habitat Mapping:** High-resolution spatial planning delineating sustainable fishing zones, tourism sectors, no-take zones, and critical habitats (coral reefs, mangrove forests, seagrass beds).
+
+![Tubajon MPA](CRMAcr.png)
 
 ## Technical Stack & Methodology
 
